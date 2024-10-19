@@ -1,4 +1,4 @@
-# SPDX Lite (標準)
+# SPDX Lite (規定)
 
 ## Liteプロファイルについて
 
